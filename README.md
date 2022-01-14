@@ -1,1 +1,1 @@
-# my_scripts
+# Useful scripts for installation
